@@ -21,5 +21,5 @@ Aplicação para realizar sorteios de **Amigo Secreto** de forma simples, rápid
 
 1. **Clonar o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/alineafonsobr/amigo-secreto.git
 
